@@ -242,7 +242,7 @@ If you find our project interesting, please consider giving it a star. Your supp
 
 ### 📹 **Video Tutorial**
 
-For a step-by-step video guide on how to configure and create your bot, check out the [tutorial here](https://youtu.be/kIlqfHDOj4M).
+For a step-by-step video guide on how to configure and create your bot, check out the [tutorial here](https://youtu.be/j40BxSAKkC4).
   
 
 ## 💭FAQ
